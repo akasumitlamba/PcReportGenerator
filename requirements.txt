@@ -1,0 +1,5 @@
+psutil==5.9.5
+reportlab==4.0.4
+wmi==1.5.1
+pywin32==306
+pypiwin32==223 
